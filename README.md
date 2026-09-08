@@ -1,6 +1,6 @@
 ### Felipe Maia Silva
 
-CS & Math student at Yale University (Class of 2030), from Brazil.
+CS&Math + Cog Sci student at Yale University (Class of 2030), from Brazil.
 
 Background in physics and astronomy research; Olympiad medals (Astronomy, 
 Physics) and research on Fast Radio Bursts. Currently building full-stack 
